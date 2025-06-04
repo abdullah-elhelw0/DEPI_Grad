@@ -107,7 +107,7 @@ highlighting key insights and opportunities for optimization.
 -   **Interactive Benchmarking:**  
     A **dynamic reference line** was added to one of the visuals, enabling users to **adjust benchmarks interactively** and quickly assess outliers or underperforming values.
 
-## Team Members and LinkedIn Profiles
+## Team Members
 
 -   [Abdullah Mohammed Ibrahim](https://www.linkedin.com/in/abdullah-elhelw/)
 -   [Abdelrahman Yasser Saeid](https://www.linkedin.com/in/abdelrahman-yasser-1ab5b0235/)
